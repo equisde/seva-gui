@@ -1,0 +1,3 @@
+[submodule "SevaBit"]
+	path = SevaBit
+	url = https://gitlab.com/Sevabit/SevaBit

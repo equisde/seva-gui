@@ -1,0 +1,15 @@
+*.user
+*.user.*
+translations/*.qm
+build
+version.js
+# IOS stuff below
+moc_*
+*.o
+*.mak
+*.build
+*.xcodeproj
+sevabit-wallet-gui_plugin_import.cpp
+sevabit-wallet-gui_qml_plugin_import.cpp
+sevabit/*
+
