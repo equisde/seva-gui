@@ -2617,12 +2617,12 @@ For the case with Spend Proof, you don&apos;t need to specify the recipient addr
         <translation type="vanished">Hanya diperbolehkan untuk menggunakan huruf ASCII</translation>
     </message>
     <message>
-        <source>USE LOKI</source>
-        <translation type="vanished">MENGGUNAKAN LOKI</translation>
+        <source>USE SEVABIT</source>
+        <translation type="vanished">MENGGUNAKAN SEVABIT</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="365"/>
-        <source>USE LOKI</source>
+        <source>USE SEVABIT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

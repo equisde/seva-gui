@@ -2614,12 +2614,12 @@ For the case with Spend Proof, you don&apos;t need to specify the recipient addr
         <translation type="vanished"> ASCII(미국 문자 표준코드체계)가 아닌 문자는 지갑 경로 이름 또는 파일 이름으로 허용되지 않습니다.</translation>
     </message>
     <message>
-        <source>USE LOKI</source>
+        <source>USE SEVABIT</source>
         <translation type="vanished">모네로 사용하기</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="365"/>
-        <source>USE LOKI</source>
+        <source>USE SEVABIT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

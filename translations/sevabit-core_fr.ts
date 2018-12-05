@@ -3142,12 +3142,12 @@ Pour le cas d&apos;une preuve de dépense, il n&apos;est pas nécessaire de spé
         <translation type="vanished">Les caractères non ASCII ne sont pas autorisés dans le chemin du portefeuille ou le nom du compte</translation>
     </message>
     <message>
-        <source>USE LOKI</source>
-        <translation type="vanished">UTILISER LOKI</translation>
+        <source>USE SEVABIT</source>
+        <translation type="vanished">UTILISER SEVABIT</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="365"/>
-        <source>USE LOKI</source>
+        <source>USE SEVABIT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

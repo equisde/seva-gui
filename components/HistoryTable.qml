@@ -194,7 +194,7 @@ ListView {
                         _amount = (_amount *1);
                     }
 
-                    return _amount + " LOKI";
+                    return _amount + " SEVABIT";
                 }
                 color: isOut ? "white" : getColorFromRewardType(isServiceNodeReward, isMinerReward)
             }
@@ -332,7 +332,7 @@ ListView {
                     if(!isOut && !fee){
                         return "-";
                     } else if(isOut && fee){
-                        return fee + " LOKI";
+                        return fee + " SEVABIT";
                     } else {
                         return "Unknown"
                     }

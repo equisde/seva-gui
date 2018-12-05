@@ -2965,12 +2965,12 @@ Voor een betalingsbewijs hoeft u het adres van de ontvanger niet op te geven.</t
         <translation type="vanished">Niet-ASCII karakters zijn niet toegestaan in het portemonnee-pad of de portemonnee-naam</translation>
     </message>
     <message>
-        <source>USE LOKI</source>
-        <translation type="vanished">GEBRUIK LOKI</translation>
+        <source>USE SEVABIT</source>
+        <translation type="vanished">GEBRUIK SEVABIT</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="365"/>
-        <source>USE LOKI</source>
+        <source>USE SEVABIT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

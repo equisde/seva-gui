@@ -2315,8 +2315,8 @@ Jei naudojate &quot;Išleidimo įrodymas&quot;, jums nereikia nurodyti gavėjo a
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="367"/>
-        <source>USE LOKI</source>
-        <translation>NAUDOTI LOKI</translation>
+        <source>USE SEVABIT</source>
+        <translation>NAUDOTI SEVABIT</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="399"/>

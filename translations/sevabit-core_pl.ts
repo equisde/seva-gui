@@ -3170,12 +3170,12 @@ W przypadku &apos;Dowodu wydania&apos; nie musisz podawać adresu odbiorcy.</tra
         <translation type="vanished">W nazwie portfela lub konta użyte niedozwolone znaki</translation>
     </message>
     <message>
-        <source>USE LOKI</source>
-        <translation type="vanished">UŻYJ LOKI</translation>
+        <source>USE SEVABIT</source>
+        <translation type="vanished">UŻYJ SEVABIT</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="365"/>
-        <source>USE LOKI</source>
+        <source>USE SEVABIT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

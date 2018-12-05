@@ -2824,12 +2824,12 @@ Para pagamentos que você realizou, é possível pegar uma prova de pagamento qu
         <translation type="vanished">Somente caracteres ASCII são permitido no caminho da carteira ou nome da conta</translation>
     </message>
     <message>
-        <source>USE LOKI</source>
-        <translation type="vanished">USAR O LOKI</translation>
+        <source>USE SEVABIT</source>
+        <translation type="vanished">USAR O SEVABIT</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="365"/>
-        <source>USE LOKI</source>
+        <source>USE SEVABIT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

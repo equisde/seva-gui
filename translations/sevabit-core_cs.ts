@@ -2747,12 +2747,12 @@ V případě odchozích plateb můžete získat doklad o výdajích, který dokl
         <translation type="vanished">V cestě k peněžence nejsou povolené ne-ASCII znaky.</translation>
     </message>
     <message>
-        <source>USE LOKI</source>
-        <translation type="vanished">POUŽÍVEJTE LOKI</translation>
+        <source>USE SEVABIT</source>
+        <translation type="vanished">POUŽÍVEJTE SEVABIT</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="365"/>
-        <source>USE LOKI</source>
+        <source>USE SEVABIT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

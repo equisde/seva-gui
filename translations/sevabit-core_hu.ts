@@ -2311,8 +2311,8 @@ Egyszerű költési bizonylat esetén nem kell megadni a kedvezményezett címé
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="367"/>
-        <source>USE LOKI</source>
-        <translation>LOKI INDÍTÁSA</translation>
+        <source>USE SEVABIT</source>
+        <translation>SEVABIT INDÍTÁSA</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="399"/>

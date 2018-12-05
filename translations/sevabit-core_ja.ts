@@ -2304,7 +2304,7 @@ Spend Proofの場合、宛先アドレスを指定する必要はありません
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="367"/>
-        <source>USE LOKI</source>
+        <source>USE SEVABIT</source>
         <translation>Lokiを使う</translation>
     </message>
     <message>

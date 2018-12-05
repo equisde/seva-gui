@@ -2923,12 +2923,12 @@ For the case with Spend Proof, you don&apos;t need to specify the recipient addr
         <translation type="vanished">תווים שאינם ASCII אינם מותרים בכתובת ארנק או שם חשבון</translation>
     </message>
     <message>
-        <source>USE LOKI</source>
+        <source>USE SEVABIT</source>
         <translation type="vanished">התחל עם מונרו!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="365"/>
-        <source>USE LOKI</source>
+        <source>USE SEVABIT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

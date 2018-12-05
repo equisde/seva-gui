@@ -2575,7 +2575,7 @@ For the case with Spend Proof, you don&apos;t need to specify the recipient addr
         <translation>موجود محفظه بنفس الإسم بالفعل. من فضلك إختر غيّّر اسم المحفظه</translation>
     </message>
     <message>
-        <source>USE LOKI</source>
+        <source>USE SEVABIT</source>
         <translation>إستخدم مونيرو</translation>
     </message>
     <message>

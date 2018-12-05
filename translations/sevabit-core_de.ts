@@ -2941,7 +2941,7 @@ Für einen reinen Sendenachweis muss die Empfängeradresse nicht angegeben werde
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="365"/>
-        <source>USE LOKI</source>
+        <source>USE SEVABIT</source>
         <translatorcomment>Benutzen klingt so schmutzig ;)</translatorcomment>
         <translation>NUTZE SevaBit</translation>
     </message>

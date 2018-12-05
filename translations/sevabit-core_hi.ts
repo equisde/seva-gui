@@ -2336,12 +2336,12 @@ For the case with Spend Proof, you don&apos;t need to specify the recipient addr
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>USE LOKI</source>
-        <translation type="vanished">LOKI प्रयोग करें</translation>
+        <source>USE SEVABIT</source>
+        <translation type="vanished">SEVABIT प्रयोग करें</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="365"/>
-        <source>USE LOKI</source>
+        <source>USE SEVABIT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

@@ -2728,12 +2728,12 @@ Kaze de Elspezpruvo, vi ne bezonas precizi la ricevantan adreson.</translation>
         <translation type="vanished">Ne-askiaj karaktroj ne permesiĝas en la vojnomo aŭ kontonomo</translation>
     </message>
     <message>
-        <source>USE LOKI</source>
-        <translation type="vanished">UZU LOKIN</translation>
+        <source>USE SEVABIT</source>
+        <translation type="vanished">UZU SEVABIT</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="365"/>
-        <source>USE LOKI</source>
+        <source>USE SEVABIT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

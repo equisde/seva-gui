@@ -2575,8 +2575,8 @@ For the case with Spend Proof, you don&apos;t need to specify the recipient addr
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="365"/>
-        <source>USE LOKI</source>
-        <translation>UTILITZI LOKI</translation>
+        <source>USE SEVABIT</source>
+        <translation>UTILITZI SEVABIT</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="378"/>

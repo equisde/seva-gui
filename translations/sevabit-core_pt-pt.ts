@@ -2705,12 +2705,12 @@ For the case with Spend Proof, you don&apos;t need to specify the recipient addr
         <translation type="vanished">Somente caracteres ASCII são permitido no path da carteira ou no nome da conta</translation>
     </message>
     <message>
-        <source>USE LOKI</source>
-        <translation type="vanished">USAR O LOKI</translation>
+        <source>USE SEVABIT</source>
+        <translation type="vanished">USAR O SEVABIT</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="365"/>
-        <source>USE LOKI</source>
+        <source>USE SEVABIT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

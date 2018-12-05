@@ -2845,12 +2845,12 @@ Para el caso de pagos salientes, puedes obtener una &quot;Prueba de pago&quot; q
         <translation type="vanished">No se permiten caracteres no ASCII en la ruta del monedero o en el nombre de cuenta</translation>
     </message>
     <message>
-        <source>USE LOKI</source>
-        <translation type="vanished">USE LOKI</translation>
+        <source>USE SEVABIT</source>
+        <translation type="vanished">USE SEVABIT</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="365"/>
-        <source>USE LOKI</source>
+        <source>USE SEVABIT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

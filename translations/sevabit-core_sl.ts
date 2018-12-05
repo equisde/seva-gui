@@ -2684,12 +2684,12 @@ For the case with Spend Proof, you don&apos;t need to specify the recipient addr
         <translation type="vanished">Ne ASCII znaki niso dovoljeni v poti denarnice ali imenu računa</translation>
     </message>
     <message>
-        <source>USE LOKI</source>
-        <translation type="vanished">UPORABI LOKI</translation>
+        <source>USE SEVABIT</source>
+        <translation type="vanished">UPORABI SEVABIT</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="365"/>
-        <source>USE LOKI</source>
+        <source>USE SEVABIT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

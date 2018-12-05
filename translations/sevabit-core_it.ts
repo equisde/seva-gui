@@ -2969,12 +2969,12 @@ In caso di prova di spesa, non serve specificare l&apos;indirizzo del ricevente.
         <translation type="vanished">Caratteri non-ASCII non sono permessi per la cartella del portafoglio o per i nome del conto</translation>
     </message>
     <message>
-        <source>USE LOKI</source>
-        <translation type="vanished">USA LOKI</translation>
+        <source>USE SEVABIT</source>
+        <translation type="vanished">USA SEVABIT</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="365"/>
-        <source>USE LOKI</source>
+        <source>USE SEVABIT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

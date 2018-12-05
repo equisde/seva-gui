@@ -2903,12 +2903,12 @@ U slučaju &quot;dokaza potrošnje&quot;, adresa primatelja ne mora se navesti.<
         <translation type="vanished">Nedozvoljeni znakovi u putanji novčanika ili imenu računa</translation>
     </message>
     <message>
-        <source>USE LOKI</source>
-        <translation type="vanished">KORISTI LOKI</translation>
+        <source>USE SEVABIT</source>
+        <translation type="vanished">KORISTI SEVABIT</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="365"/>
-        <source>USE LOKI</source>
+        <source>USE SEVABIT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

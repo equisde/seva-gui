@@ -3074,12 +3074,12 @@ Harcama Kanıtı ile ilgili davada, alıcı adresini belirtmeniz gerekmez. </tra
         <translation type="vanished">Cüzdan yolunda veya hesap adında ASCII olmayan karakterlere izin verilmiyor</translation>
     </message>
     <message>
-        <source>USE LOKI</source>
-        <translation type="vanished">LOKI KULLANIN</translation>
+        <source>USE SEVABIT</source>
+        <translation type="vanished">SEVABIT KULLANIN</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="365"/>
-        <source>USE LOKI</source>
+        <source>USE SEVABIT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

@@ -2699,12 +2699,12 @@ For the case with Spend Proof, you don&apos;t need to specify the recipient addr
         <translation type="vanished">Символи не із таблиці ASCII не дозволені в шляху до гаманця чи імені акаунта</translation>
     </message>
     <message>
-        <source>USE LOKI</source>
-        <translation type="vanished">КОРИСТУЙТЕСЬ LOKI</translation>
+        <source>USE SEVABIT</source>
+        <translation type="vanished">КОРИСТУЙТЕСЬ SEVABIT</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="365"/>
-        <source>USE LOKI</source>
+        <source>USE SEVABIT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

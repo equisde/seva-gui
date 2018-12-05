@@ -2986,12 +2986,12 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
         <translation type="vanished">U lokaciji i nazivu novčanika nisu dozvoljena slova sa kvačicama (š, ž, č, ć, đ)</translation>
     </message>
     <message>
-        <source>USE LOKI</source>
-        <translation type="vanished">KORISTI LOKI</translation>
+        <source>USE SEVABIT</source>
+        <translation type="vanished">KORISTI SEVABIT</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="365"/>
-        <source>USE LOKI</source>
+        <source>USE SEVABIT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
